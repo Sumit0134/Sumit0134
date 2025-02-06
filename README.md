@@ -2,6 +2,9 @@
 
 I am an enthusiastic back-end developer from India. Being a self-driven, career-minded individual, I strive to grow as a developer every day.
 
+### ⚡ Fun Fact  
+"I see problems → I break them → I strategize → I persist → I won’t rest until I’ve pieced them together.
+
 I am a people person, let's connect!
 
 ## 📫 Connect with Me:
@@ -105,3 +108,14 @@ Here are the technologies and tools I work with:
     <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="Canva" width="40" height="40"/>
   </a>
 </div>
+
+### 🌟 Notable Projects
+- 🍽 [Restaurant Management System](https://github.com/sumit0134/Restaurant-Management-System) – The Restaurant Management System is a comprehensive backend solution designed to streamline the management of restaurants.
+- 🎒 [Scatch - A Premium Bag Shop](https://github.com/Sumit0134/Scatch) 👜 - Scatch is a user-friendly e-commerce platform designed for premium bag enthusiasts.
+- 👤 [User CRUD](https://github.com/sumit0134/User-CRUD) – A simple application for performing CRUD operations on user data with a clean and responsive UI.  
+- 🗂 [Task Manager](https://github.com/sumit0134/Task-Manager) – A task management app that allows users to add, edit, and delete tasks with task status tracking.
+- 🐦 [Twitter Clone](https://github.com/Sumit0134/Twitter-Clone) - Your Favorite Social Platform Reimagined - The **Twitter Clone** project is a simplified recreation of the popular social media platform, designed with a focus on learning and practicing web development skills.  
+- 🎵 [Musicfy](https://github.com/sumit0134/Musicfy) – A music web application that fetches songs from a local server and plays them using JavaScript.  
+- 🎬 [Netflix Clone](https://github.com/sumit0134/Netflix-Website-Clone) – A responsive clone of the Netflix homepage.  
+- ✍ [UltraEdit Clone](https://github.com/sumit0134/UltraEdit-Website-Clone) – A clone of the UltraEdit text editor download page to practice front-end development.  
+
