@@ -123,6 +123,12 @@ Here are the technologies and tools I work with:
 Here are some of the cheat sheets I’ve created for **HTML5** and **Git & GitHub**:
 
 - 🌐 [HTML5 Cheat Sheet](https://azure-briny-88.tiiny.site/) – A comprehensive guide to HTML5 tags, attributes, and syntax.  
-- 💻 [Git & GitHub Cheat Sheet](https://aquamarine-susette-51.tiiny.site/) – A quick reference for essential GitHub workflows and commands.  
+- 💻 [Git & GitHub Cheat Sheet](https://aquamarine-susette-51.tiiny.site/) – A quick reference for essential GitHub workflows and commands.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit0134&show_icons=true&count_private=true&hide=prs&hide_title=true)
+
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Sumit0134)
+
+
 
 
