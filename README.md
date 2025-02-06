@@ -7,9 +7,6 @@ I am a people person, let's connect!
 ## 📫 Connect with Me:
 
 <div>
-  <a href="tel:+918274060134" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/?size=100&id=hTTzWSpAOgIV&format=png&color=000000" alt="Call" width="40" height="40"/>
-  </a>
   <a href="mailto:sumitshaw8274060134@gmail.com" style="margin-right: 10px;">
     <img src="https://img.icons8.com/?size=40&id=xLIkjgcmFOsC&format=png&color=000000" alt="Email" width="40" height="40"/>
   </a>
