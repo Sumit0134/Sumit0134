@@ -6,6 +6,14 @@ I am an enthusiastic back-end developer from India. Being a self-driven, career-
 "I see problems → I break them → I strategize → I persist → I won’t rest until I’ve pieced them together.
 
 I am a people person, let's connect!
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <p>I am a people person, let's connect!</p>
+  </div>
+  <div>
+    <img src="images/image.jpeg" alt="Sumit Image" width="150" style="border-radius: 50%; margin-left: 20px;">
+  </div>
+</div>
 
 ## 📫 Connect with Me:
 
