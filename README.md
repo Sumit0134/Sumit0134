@@ -2,32 +2,28 @@
 
 I am an enthusiastic back-end developer from India. Being a self-driven, career-minded individual, I strive to grow as a developer every day.
 
-### ⚡ Fun Fact  
-"I see problems → I break them → I strategize → I persist → I won’t rest until I’ve pieced them together.
-
-I am a people person, let's connect!
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <p>I am a people person, let's connect!</p>
-  </div>
-  <div>
-    <img src="images/image.jpeg" alt="Sumit Image" width="150" style="border-radius: 50%; margin-left: 20px;">
-  </div>
-</div>
+## ⚡ Fun Fact
+*"I see problems → I break them → I strategize → I persist → I won’t rest until I’ve pieced them together."*
 
 ## 📫 Connect with Me:
+I am a people person, let's connect!
 
-<div>
-  <a href="mailto:sumitshaw8274060134@gmail.com" style="margin-right: 10px;">
+<div align="center">
+  <img src="image.jpeg" alt="Sumit Image" width="500" height="300"/>
+</div>
+
+<div align="center">
+  <a href="mailto:sumitshaw8274060134@gmail.com">
     <img src="https://img.icons8.com/?size=40&id=xLIkjgcmFOsC&format=png&color=000000" alt="Email" width="40" height="40"/>
   </a>
-  <a href="https://wa.me/+918274060134" style="margin-right: 10px;">
+  <a href="https://wa.me/+918274060134">
     <img src="https://img.icons8.com/?size=40&id=DUEq8l5qTqBE&format=png&color=000000" alt="WhatsApp" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/sumit-kumar-shaw-723170191/">
     <img src="https://img.icons8.com/?size=40&id=13930&format=png&color=000000" alt="LinkedIn" width="40" height="40"/>
   </a>
 </div>
+
 
 ## 💼 Portfolio
 
