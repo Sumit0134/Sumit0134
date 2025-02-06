@@ -110,12 +110,19 @@ Here are the technologies and tools I work with:
 </div>
 
 ### 🌟 Notable Projects
-- 🍽 [Restaurant Management System](https://github.com/sumit0134/Restaurant-Management-System) – The Restaurant Management System is a comprehensive backend solution designed to streamline the management of restaurants.
-- 🎒 [Scatch - A Premium Bag Shop](https://github.com/Sumit0134/Scatch) 👜 - Scatch is a user-friendly e-commerce platform designed for premium bag enthusiasts.
-- 👤 [User CRUD](https://github.com/sumit0134/User-CRUD) – A simple application for performing CRUD operations on user data with a clean and responsive UI.  
-- 🗂 [Task Manager](https://github.com/sumit0134/Task-Manager) – A task management app that allows users to add, edit, and delete tasks with task status tracking.
-- 🐦 [Twitter Clone](https://github.com/Sumit0134/Twitter-Clone) - Your Favorite Social Platform Reimagined - The **Twitter Clone** project is a simplified recreation of the popular social media platform, designed with a focus on learning and practicing web development skills.  
-- 🎵 [Musicfy](https://github.com/sumit0134/Musicfy) – A music web application that fetches songs from a local server and plays them using JavaScript.  
-- 🎬 [Netflix Clone](https://github.com/sumit0134/Netflix-Website-Clone) – A responsive clone of the Netflix homepage.  
-- ✍ [UltraEdit Clone](https://github.com/sumit0134/UltraEdit-Website-Clone) – A clone of the UltraEdit text editor download page to practice front-end development.  
+- 🍽 [Restaurant Management System](https://github.com/Sumit0134/Restaurant-Management-System) – MEN STACK
+- 🎒 [Scatch - A Premium Bag Shop](https://scatch-6sgl.onrender.com/) 👜 - MEN STACK, EJS, TAILWIND CSS
+- 👤 [User CRUD](https://usercrud-r3cc.onrender.com/) – MEN STACK, EJS, TAILWIND CSS  
+- 🗂 [Task Manager](https://task-manager-nwrr.onrender.com/) – EXPRESSJS, NODEJS, EJS, FILE SYSTEM, TAILWIND CSS
+- 🐦 [Twitter Clone](https://sumittwitterclone.netlify.app/) - HTML5, TAILWIND CSS, VITE 
+- 🎵 [Musicfy](https://github.com/sumit0134/Musicfy) – HTML5, CSS3, JAVASCRIPT  
+- 🎬 [Netflix Clone](https://kaleidoscopic-sprinkles-11bfb8.netlify.app/) – HTML5, CSS3 
+- ✍ [UltraEdit Clone](https://sumit0134.github.io/UltraEdit-Website-Clone/) – HTML5, CSS3
+
+### 📚 Cheat Sheets
+Here are some of the cheat sheets I’ve created for **HTML5** and **Git & GitHub**:
+
+- 🌐 [HTML5 Cheat Sheet](https://azure-briny-88.tiiny.site/) – A comprehensive guide to HTML5 tags, attributes, and syntax.  
+- 💻 [Git & GitHub Cheat Sheet](https://aquamarine-susette-51.tiiny.site/) – A quick reference for essential GitHub workflows and commands.  
+
 
