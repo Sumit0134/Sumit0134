@@ -116,7 +116,7 @@ Here are the technologies and tools I work with:
 ### 🌟 Notable Projects
 - 🍽 [Restaurant Management System](https://github.com/Sumit0134/Restaurant-Management-System) – MEN STACK
 - 🎒 [Scatch - A Premium Bag Shop](https://scatch-6sgl.onrender.com/) 👜 - MEN STACK, EJS, TAILWIND CSS
-- 👤 [User CRUD](https://usercrud-r3cc.onrender.com/) – MEN STACK, EJS, TAILWIND CSS  
+- 👤 [UserCRUD](https://usercrud-r3cc.onrender.com/) – MEN STACK, EJS, TAILWIND CSS  
 - 🗂 [Task Manager](https://task-manager-nwrr.onrender.com/) – EXPRESSJS, NODEJS, EJS, FILE SYSTEM, TAILWIND CSS
 - 🐦 [Twitter Clone](https://sumittwitterclone.netlify.app/) - HTML5, TAILWIND CSS, VITE 
 - 🎵 [Musicfy](https://github.com/sumit0134/Musicfy) – HTML5, CSS3, JAVASCRIPT  
