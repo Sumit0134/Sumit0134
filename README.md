@@ -1,6 +1,11 @@
-# Hi there 👋, I'm Sumit!
-
-I am an enthusiastic back-end developer from India. Being a self-driven, career-minded individual, I strive to grow as a developer every day.
+<h1 align="center">
+  <svg viewBox="0 0 800 100" width="100%" height="100">
+    <text x="50%" y="50%" dy=".35em" text-anchor="middle" fill="black" font-size="40">
+      Hi there 👋, I'm Sumit!
+      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</h1>
 
 ## ⚡ Fun Fact
 *"I see problems → I break them → I strategize → I persist → I won’t rest until I’ve pieced them together."*
