@@ -1,6 +1,6 @@
 <div align="center">
   
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=50&lines=Hi+there+👋🏻,+I+am+Sumit!;Welcome+to+my+GitHub+Profile!;Backend+Developer+from+India)
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000080&center=true&vCenter=true&width=500&height=50&lines=Hi+there+👋🏻,+I+am+Sumit!;Welcome+to+my+GitHub+Profile!;Backend+Developer+from+India&background=FFFFFF)
 </div>
 
 ## ⚡ Fun Fact
