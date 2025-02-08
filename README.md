@@ -3,8 +3,6 @@
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=50&lines=Hi+there+👋🏻,+I+am+Sumit!;Welcome+to+my+GitHub+Profile!;Backend+Developer+from+India)
 </div>
 
-
-
 ## ⚡ Fun Fact
 *"I see problems → I break them → I strategize → I persist → I won’t rest until I’ve pieced them together."*
 
