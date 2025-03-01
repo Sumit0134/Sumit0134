@@ -120,7 +120,7 @@ Here are the technologies and tools I work with:
 - 👤 [UserCRUD](https://usercrud-r3cc.onrender.com/) – MEN STACK, EJS, TAILWIND CSS  
 - 🗂 [Task Manager](https://task-manager-nwrr.onrender.com/) – EXPRESSJS, NODEJS, EJS, FILE SYSTEM, TAILWIND CSS
 - 🐦 [Twitter Clone](https://sumittwitterclone.netlify.app/) - HTML5, TAILWIND CSS, VITE 
-- 🎵 [Musicfy](https://github.com/sumit0134/Musicfy) – HTML5, CSS3, JAVASCRIPT  
+- 🎵 [MusicBar](https://github.com/sumit0134/Musicfy) – HTML5, CSS3, JAVASCRIPT  
 - 🎬 [Netflix Clone](https://kaleidoscopic-sprinkles-11bfb8.netlify.app/) – HTML5, CSS3 
 - ✍ [UltraEdit Clone](https://sumit0134.github.io/UltraEdit-Website-Clone/) – HTML5, CSS3
 
