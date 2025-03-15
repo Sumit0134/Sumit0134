@@ -117,7 +117,7 @@ Here are the technologies and tools I work with:
 - 👤 [UserCRUD](https://usercrud-r3cc.onrender.com/) – MongoDB, Express, Node, EJS, Tailwind CSS  
 - 🗂 [Task Manager](https://task-manager-nwrr.onrender.com/) – Express, Node, EJS, File System, Tailwind CSS
 - 🐦 [Twitter Clone](https://sumittwitterclone.netlify.app/) - HTML5, Tailwind CSS, Vite
-- 🎵 [MusicBar](https://github.com/sumit0134/Musicfy) – HTML5, CSS3, JavaScript 
+- 🎵 [MusicBar](https://github.com/Sumit0134/Music-Bar) – HTML5, CSS3, JavaScript 
 - 🎬 [Netflix Clone](https://kaleidoscopic-sprinkles-11bfb8.netlify.app/) – HTML5, CSS3
   
 ### 📚 Cheat Sheets
