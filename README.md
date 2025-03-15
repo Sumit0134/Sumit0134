@@ -73,7 +73,7 @@ Here are the technologies and tools I work with:
   </a>
   <a href="https://www.mysql.com/">
     <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL" width="40" height="40"/>
-</a>
+  </a>
 </div>
 <div>
   <a href="https://tailwindcss.com/">
@@ -102,6 +102,9 @@ Here are the technologies and tools I work with:
 <div>
   <a href="https://visualstudio.microsoft.com/">
     <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="Visual Studio" width="40" height="40"/>
+  </a>
+  <a href="https://openai.com/chatgpt">
+    <img src="https://img.icons8.com/?size=100&id=R9z6ymxBsc8r&format=png&color=000000" alt="ChatGPT" width="40" height="40"/>
   </a>
   <a href="https://www.canva.com/">
     <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="Canva" width="40" height="40"/>
