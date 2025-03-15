@@ -109,15 +109,14 @@ Here are the technologies and tools I work with:
 </div>
 
 ### 🌟 Notable Projects
-- 🍽 [Restaurant Management System](https://github.com/Sumit0134/Restaurant-Management-System) – MEN STACK
-- 🎒 [Scatch - A Premium Bag Shop](https://scatch-6sgl.onrender.com/) 👜 - MEN STACK, EJS, TAILWIND CSS
-- 👤 [UserCRUD](https://usercrud-r3cc.onrender.com/) – MEN STACK, EJS, TAILWIND CSS  
-- 🗂 [Task Manager](https://task-manager-nwrr.onrender.com/) – EXPRESSJS, NODEJS, EJS, FILE SYSTEM, TAILWIND CSS
-- 🐦 [Twitter Clone](https://sumittwitterclone.netlify.app/) - HTML5, TAILWIND CSS, VITE 
-- 🎵 [MusicBar](https://github.com/sumit0134/Musicfy) – HTML5, CSS3, JAVASCRIPT  
-- 🎬 [Netflix Clone](https://kaleidoscopic-sprinkles-11bfb8.netlify.app/) – HTML5, CSS3 
-- ✍ [UltraEdit Clone](https://sumit0134.github.io/UltraEdit-Website-Clone/) – HTML5, CSS3
-
+- 🍽 [Restaurant Management System](https://github.com/Sumit0134/Restaurant-Management-System) – MongoDB, Express, Node
+- 🎒 [Scatch - A Premium Bag Shop](https://scatch-6sgl.onrender.com/) 👜 - MongoDB, Express, Node, EJS, Tailwind CSS
+- 👤 [UserCRUD](https://usercrud-r3cc.onrender.com/) – MongoDB, Express, Node, EJS, Tailwind CSS  
+- 🗂 [Task Manager](https://task-manager-nwrr.onrender.com/) – Express, Node, EJS, File System, Tailwind CSS
+- 🐦 [Twitter Clone](https://sumittwitterclone.netlify.app/) - HTML5, Tailwind CSS, Vite
+- 🎵 [MusicBar](https://github.com/sumit0134/Musicfy) – HTML5, CSS3, JavaScript 
+- 🎬 [Netflix Clone](https://kaleidoscopic-sprinkles-11bfb8.netlify.app/) – HTML5, CSS3
+  
 ### 📚 Cheat Sheets
 Here are some of the cheat sheets I’ve created for **HTML5** and **Git & GitHub**:
 
