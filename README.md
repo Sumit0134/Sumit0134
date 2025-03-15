@@ -30,7 +30,7 @@ I am a people person, let's connect!
 
 Check out my portfolio where you can explore my projects and learn more about what I do:
 
-[Visit my Portfolio](https://sumitportfoliowebsite.netlify.app/)
+[Portfolio](https://sumitportfoliowebsite.netlify.app/)
 
 ## ⚙️ Technologies & Tools
 
